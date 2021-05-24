@@ -1,6 +1,6 @@
 __pycache__
 .venv
-p3dss.egg-info
+p3dae.egg-info
 dist/
 build/
 tests/
