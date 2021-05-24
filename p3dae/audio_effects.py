@@ -67,7 +67,6 @@ class AudioEffects:
 
         if active_songs:
             for track in active_songs:
-                print(track)
                 parallel.append(Func(self.fade_out,
                                      song = track,
                                      speed = fade_out_speed,
