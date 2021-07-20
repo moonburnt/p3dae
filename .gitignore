@@ -4,3 +4,4 @@ p3dae.egg-info
 dist/
 build/
 tests/
+example/p3dae
